@@ -1,6 +1,6 @@
 <?php
 
-namespace SD\ComposerTest;
+namespace SimplyDemon\ComposerTest;
 
 
 class TrueReturner

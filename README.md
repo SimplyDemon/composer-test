@@ -11,6 +11,6 @@
 ```php
 <?php
 
-$trueReturner = new \SD\ComposerTest\TrueReturner();
+$trueReturner = new \SimplyDemon\ComposerTest\TrueReturner();
 $true = $trueReturner->return();
 ```
