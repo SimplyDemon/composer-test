@@ -4,7 +4,7 @@
 
 # Установка
 
-`composer require `
+`composer require simplydemon/test-composer`
 
 # Использование
 
