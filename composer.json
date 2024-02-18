@@ -1,5 +1,5 @@
 {
-    "name": "sd/test-composer",
+    "name": "simplydemon/test-composer",
     "type": "library",
     "require": {},
     "autoload": {
